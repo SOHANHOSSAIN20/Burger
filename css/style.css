@@ -1,0 +1,709 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-image: url(../img/berger-bg.png);
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.banner-content{
+    min-height: 90vh;
+    align-items: center;
+    position: relative;
+}
+.banner-content h1{
+   font-size: 100px;
+   font-family: 'Alfa Slab One', cursive;
+   color: #3d2514;
+   margin-top: 20px;
+}
+.banner-content h3{
+   font-size: 60px;
+   font-family: 'Alfa Slab One', cursive;
+   color: #3d2514;
+}
+.banner-content h5{
+    text-transform: uppercase;
+    font-size: 16px;
+    border: 3px dotted #3d2514;
+    padding: 10px;
+    text-align: center;
+    display: inline;
+}
+}
+.banner-content .tytle-one{
+ margin-top: 15px;
+}
+.banner-content .tytle-two{
+    margin-top: 20px;
+}
+.banner-content img{
+    margin-top: 12px;
+}
+.pricing-logo{
+   
+}
+.pricing-logo img {
+    position: absolute;
+    left: 47%;
+    top: 62%;
+}
+.heading{
+    position: relative;
+    margin-top: 40px;
+}
+.popular-berger{
+ position: relative;
+}
+.popular-berger .desgination {
+    position: absolute;
+    top: 7%;
+    left: 13%;
+}
+.desgination h5{
+ color: #fff;
+ text-transform: uppercase;
+ /* font-weight: 600; */
+ font-family: 'Bebas Neue', cursive;
+}
+.desgination h2{
+    color:#fff;
+    text-transform: uppercase;
+    /* font-weight: 600; */
+    font-family: 'Bebas Neue', cursive;
+}
+.desgination-two {
+    position: absolute;
+    top: 5%;
+    left: 10%;
+}
+.desgination-two h2 {
+    color: #fff;
+    text-transform: uppercase;
+    /* font-weight: 600; */
+    font-family: 'Bebas Neue', cursive;
+}
+.desgination-two h4 {
+    color: #fff;
+    text-transform: uppercase;
+    /* font-family: 'Bebas Neue', cursive; */
+    font-family: 'Bebas Neue', cursive;
+}
+.desgination-three {
+    position: absolute;
+    top: 20%;
+    left: 8%;
+}
+.desgination-three h2 {
+    color: #fff;
+    text-transform: uppercase;
+    /* font-weight: 600; */
+    font-family: 'Bebas Neue', cursive;
+}
+.desgination-three h4 {
+    color: #fff;
+    text-transform: uppercase;
+    /* font-weight: 600; */
+    font-family: 'Bebas Neue', cursive;
+}
+.part-two{
+  position: relative;
+}
+.enjoy-section h3{
+    background-color:#ffc045;*{
+        margin: 0;
+        padding: 0;
+    }
+    header{
+        background-image: url(../img/berger-bg.png);
+        background-repeat: repeat;
+        background-position: center;
+        background-size: cover;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        color: #000;
+        font-size: 16px;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+    }
+    .banner-content{
+        min-height: 90vh;
+        align-items: center;
+        position: relative;
+    }
+    .banner-content h1{
+       font-size: 100px;
+       font-family: 'Alfa Slab One', cursive;
+       color: #3d2514;
+       margin-top: 20px;
+    }
+    .banner-content h3{
+       font-size: 60px;
+       font-family: 'Alfa Slab One', cursive;
+       color: #3d2514;
+    }
+    .banner-content h5{
+        text-transform: uppercase;
+        font-size: 16px;
+        border: 3px dotted #3d2514;
+        padding: 10px;
+        text-align: center;
+        display: inline;
+    }
+    }
+    .banner-content .tytle-one{
+     margin-top: 15px;
+    }
+    .banner-content .tytle-two{
+        margin-top: 20px;
+    }
+    .banner-content img{
+        margin-top: 12px;
+    }
+    .pricing-logo{
+       
+    }
+    .pricing-logo img {
+        position: absolute;
+        left: 47%;
+        top: 62%;
+    }
+    .heading{
+        position: relative;
+        margin-top: 40px;
+    }
+    .popular-berger{
+     position: relative;
+    }
+    .popular-berger .desgination {
+        position: absolute;
+        top: 7%;
+        left: 13%;
+    }
+    .desgination h5{
+     color: #fff;
+     text-transform: uppercase;
+     /* font-weight: 600; */
+     font-family: 'Bebas Neue', cursive;
+    }
+    .desgination h2{
+        color:#fff;
+        text-transform: uppercase;
+        /* font-weight: 600; */
+        font-family: 'Bebas Neue', cursive;
+    }
+    .desgination-two {
+        position: absolute;
+        top: 5%;
+        left: 10%;
+    }
+    .desgination-two h2 {
+        color: #fff;
+        text-transform: uppercase;
+        /* font-weight: 600; */
+        font-family: 'Bebas Neue', cursive;
+    }
+    .desgination-two h4 {
+        color: #fff;
+        text-transform: uppercase;
+        /* font-family: 'Bebas Neue', cursive; */
+        font-family: 'Bebas Neue', cursive;
+    }
+    .desgination-three {
+        position: absolute;
+        top: 20%;
+        left: 8%;
+    }
+    .desgination-three h2 {
+        color: #fff;
+        text-transform: uppercase;
+        /* font-weight: 600; */
+        font-family: 'Bebas Neue', cursive;
+    }
+    .desgination-three h4 {
+        color: #fff;
+        text-transform: uppercase;
+        /* font-weight: 600; */
+        font-family: 'Bebas Neue', cursive;
+    }
+    .part-two{
+      position: relative;
+    }
+    .enjoy-section h3{
+        background-color:#ffc045;
+        display:inline-block;
+        text-align: center;
+        padding: 12px 20px;
+        text-transform: uppercase;
+        font-size: 24px;
+        font-family: 'Bebas Neue', cursive;
+        
+    }
+    .enjoy-section h3:hover{
+        background-color:#da9610;
+        color:#3d2514;
+        ;
+        transition: .5s all ease-in-out;
+    }
+    .heading-two p{
+        margin-top: 20px;
+        font-size: 16px;
+        color: #828282;
+    }
+    .heading-two h1{
+        font-family: 'Alfa Slab One', cursive;
+        color: #3d2514;
+    }
+    .heading-three{
+    
+    }
+    .heading-three h4{
+        
+    color: #3d2514;
+        
+    text-transform: uppercase;
+    font-weight: 600;
+        
+    margin-top: 20px;
+    }
+    .heading-three p{
+        
+    margin-top: 13px;
+        
+    color: #3d2514;
+    }
+    .custom-button{
+    
+    border: 1px solid #bf2222;
+    
+    background:#bf2222;
+    
+    color: #fff;
+    
+    padding: 10px 15px;
+    
+    font-weight: 700;
+    }
+    .custom-button:hover{
+        border: 2px solid #bf2222;
+        color: #bf2222;
+        background: transparent;
+        transition: .5s all ease-in-out;
+    }
+    .wid{
+        width: 80%;
+    }
+    .discover img{
+    
+    }
+    .discover h1{
+        font-family: 'Alfa Slab One', cursive;
+        color: #3d2514;
+    }
+    .discover h3{
+        color: #3d2514;
+        font-family: 'Bebas Neue', cursive;
+    }
+    .discover{
+    
+    }
+    .discover p{
+        margin-top: 30px;
+        color: #828282;
+    }
+    .sub-button{
+        border: none;
+        background: #bf2222;
+        padding: 10px 70px;
+        color: #fff;
+        font-weight:900;
+        border-radius: 3px;
+        font-size: 16px;
+    
+    }
+    .sub-button:hover{
+        border: 2px solid #bf2222;
+        color: #bf2222;
+        background: transparent;
+        transition: .5s all ease-in-out;
+    }
+    .book-and-table h3{
+        color: #3d2514;
+        font-family: 'Bebas Neue', cursive;
+    }
+    .book-and-table h1{
+        font-family: 'Alfa Slab One', cursive;
+        color: #3d2514;
+    }
+    .book-and-table{
+    
+    }
+    form{
+     
+    }
+    .contact-form{
+     position: relative;
+    }
+    .bottle {
+        width: 40%;
+        position: absolute;
+        top: -68%;
+        left: -36%;
+    }
+    .bottle img{
+        
+    }
+    .small-burger{
+    
+    top: -127%;
+    
+    position: absolute;
+    
+    left: -74%;
+    }
+    .small-burger img{
+        width: 100%;
+    }
+    .plate{
+        position: absolute;
+        top: -88%;
+        left: 126%;
+    }
+    .plate img{
+    
+    }
+    .footer-section .container{
+        background-image: url(../img/footer-bg.png);
+        background-repeat: repeat;
+        background-position: center;
+        background-size: cover;
+        min-height: 40vh;
+        position: relative;
+    }
+    .footer-section img{
+     margin-left: 30px;
+    }
+    .footer-section p{
+        color:#fff;
+        margin-top: 30px;
+        margin-left: 40px;
+    }
+    .text p{
+        position: absolute;
+        top: 80%;
+        left: 1%;
+    }
+    .address{
+        position: relative;
+    }
+    .address ul{
+     color: #fff;
+     font-size: 24px;
+     list-style: none;
+     text-align: center;
+     
+    }
+    .address ul li{
+        font-family: 'Bebas Neue', cursive;
+    }
+    .icon-box{
+        position: absolute;
+        top: 34%;
+        left: 7%;
+    }
+    .icon-box li{
+    
+    }
+    .social-icon {
+        position: absolute;
+        top: 99%;
+        left: 60%;
+    }
+    .social-icon ul {
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        width: 160%;
+       
+    }
+    .social-icon ul li{
+       
+    }
+    
+    .owl-dots .owl-dot span{
+        width: 10px;
+        height: 10px;
+        display: inline-block;
+        background:#ffc045;
+        border-radius: 50px;
+        margin: 30px 0px;
+        margin-right: 10px;
+    }
+    .owl-dots .active span{
+       width: 15px;
+       height: 15px;
+       color: #ffc045;
+    }
+    
+    .owl-dots{
+       display:flex;
+       align-items:center;
+       justify-content:right;
+    }
+    .owl-carousel .owl-dots .disabled{
+        display: block;
+    }
+    .carousel{
+    
+    }
+    .carousel img{
+        
+    }
+    .carousel p{
+        
+    }
+    .xx{
+    width: 80%;
+    }
+    .yy{
+        width: 90%; 
+    }
+    
+}
+.enjoy-section h3:hover{
+    background-color:#da9610;
+    color:#3d2514;
+    ;
+    transition: .5s all ease-in-out;
+}
+.heading-two p{
+    margin-top: 20px;
+    font-size: 16px;
+    color: #828282;
+}
+.heading-two h1{
+    font-family: 'Alfa Slab One', cursive;
+    color: #3d2514;
+}
+.heading-three{
+
+}
+.heading-three h4{
+    
+color: #3d2514;
+    
+text-transform: uppercase;
+font-weight: 600;
+    
+margin-top: 20px;
+}
+.heading-three p{
+    
+margin-top: 13px;
+    
+color: #3d2514;
+}
+.custom-button{
+
+border: 1px solid #bf2222;
+
+background:#bf2222;
+
+color: #fff;
+
+padding: 10px 15px;
+
+font-weight: 700;
+}
+.custom-button:hover{
+    border: 2px solid #bf2222;
+    color: #bf2222;
+    background: transparent;
+    transition: .5s all ease-in-out;
+}
+.wid{
+    width: 80%;
+}
+.discover img{
+
+}
+.discover h1{
+    font-family: 'Alfa Slab One', cursive;
+    color: #3d2514;
+}
+.discover h3{
+    color: #3d2514;
+}
+.discover{
+
+}
+.discover p{
+    margin-top: 30px;
+    color: #828282;
+}
+.sub-button{
+    border: none;
+    background: #bf2222;
+    padding: 10px 70px;
+    color: #fff;
+    font-weight:900;
+    border-radius: 3px;
+    font-size: 16px;
+
+}
+.sub-button:hover{
+    border: 2px solid #bf2222;
+    color: #bf2222;
+    background: transparent;
+    transition: .5s all ease-in-out;
+}
+.book-and-table h3{
+    color: #3d2514;
+}
+.book-and-table h1{
+    font-family: 'Alfa Slab One', cursive;
+    color: #3d2514;
+}
+.book-and-table{
+
+}
+form{
+ 
+}
+.contact-form{
+ position: relative;
+}
+.bottle {
+    width: 40%;
+    position: absolute;
+    top: -68%;
+    left: -36%;
+}
+.bottle img{
+    
+}
+.small-burger{
+
+top: -127%;
+
+position: absolute;
+
+left: -74%;
+}
+.small-burger img{
+    width: 100%;
+}
+.plate{
+    position: absolute;
+    top: -88%;
+    left: 126%;
+}
+.plate img{
+
+}
+.footer-section .container{
+    background-image: url(../img/footer-bg.png);
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 40vh;
+    position: relative;
+}
+.footer-section img{
+ margin-left: 30px;
+}
+.footer-section p{
+    color:#fff;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.text p{
+    position: absolute;
+    top: 80%;
+    left: 1%;
+}
+.address{
+    position: relative;
+}
+.address ul{
+ color: #fff;
+ font-size: 24px;
+ list-style: none;
+ text-align: center;
+ 
+}
+.address ul li{
+
+}
+.icon-box{
+    position: absolute;
+    top: 34%;
+    left: 7%;
+}
+.icon-box li{
+
+}
+.social-icon {
+    position: absolute;
+    top: 99%;
+    left: 60%;
+}
+.social-icon ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 160%;
+   
+}
+.social-icon ul li{
+   
+}
+
+.owl-dots .owl-dot span{
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    background:#ffc045;
+    border-radius: 50px;
+    margin: 30px 0px;
+    margin-right: 10px;
+}
+.owl-dots .active span{
+   width: 15px;
+   height: 15px;
+   color: #ffc045;
+}
+
+.owl-dots{
+   display:flex;
+   align-items:center;
+   justify-content:right;
+}
+.owl-carousel .owl-dots .disabled{
+    display: block;
+}
+.carousel{
+
+}
+.carousel img{
+    
+}
+.carousel p{
+    
+}
+.xx{
+width: 80%;
+}
+.yy{
+    width: 90%; 
+}
